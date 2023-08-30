@@ -1,0 +1,14 @@
+uma pagina chamada index.html 
+um menu, com 4 opçoes (cada opçao leva para um formulario)
+
+criar um arquivo chamado funcoes.php
+    
+    1- calcular o fatorial de um numero
+    2- receber 4 valores e vai retornar o maior
+    3- calcular a area de um triangulo
+    4- calcular o IMC de uma pessoa
+
+
+Obs: todas as funcoes devem retornar o resultado
+Obs2: todas as funcoes devem receber os valores dos formularios 
+por parametro
